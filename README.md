@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Working my way through a Hyperiondev Bootcamp.
 --------------------------------------------
 
-* 🌍  I'm based in Surrey, UK
+* 🌍  I'm based in the United Kingdom
 * ✉️  You can contact me at [gstubberfield@gmail.com](mailto:gstubberfield@gmail.com)
 * 🧠  I'm learning Python
 
