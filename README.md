@@ -5,7 +5,7 @@ Working my way through a Hyperiondev Bootcamp.
 --------------------------------------------
 
 * 🌍  I'm based in the United Kingdom
-* ✉️  You can contact me at [gstubberfield@gmail.com](mailto:gstubberfield@gmail.com)
+* ✉️  You can contact me via [LinkedIn](www.linkedin.com/in/gemma-stubberfield)
 * 🧠  I'm learning Python
 
 
